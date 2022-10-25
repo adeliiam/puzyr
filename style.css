@@ -1,0 +1,284 @@
+.header{
+    display: flex;
+    margin-left: 200px;
+ 
+    
+}
+.search{
+    margin-left: 150px;
+    margin-top: 50px;
+    
+}
+.search .search1{
+    border: 2px solid rgb(91, 136, 91);
+    font-weight: bold;
+}
+.search .submit{
+    
+    font-weight: bold;
+}
+.logo{
+    margin-top: 35px;
+    margin-left: 250px;
+    width: 500px;
+}
+
+.header2 {
+    margin-top: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #66CDAA;
+    display: flex;
+}
+.header2 .menu {
+    margin-left: 350px;
+    display: flex;
+    
+}
+.header2 .menu li{
+    list-style-type: none;
+    margin-left: 50px;
+}
+.header2 .menu a{
+    text-decoration: none;
+    color: white;
+}
+.body0{
+    display: flex;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 50px;
+}
+.body0 .body0_1{
+    margin-right: 50px;
+}
+
+.body1{
+    display: flex;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 40px;
+}
+.body1_1{
+    box-shadow: 12px 12px 12px 5px rgb(97, 89, 89);
+}
+.body1_2{
+    box-shadow: 5px 12px 12px 12px rgb(97, 89, 89);
+}
+.body1_1 a{
+    text-decoration: none;
+}
+.body1_1 a:hover{
+    color: #66CDAA;
+    text-decoration: underline;
+    
+}
+.body1_1 h3{
+    background-color: rgb(219, 191, 154);
+    padding: 10px;
+    padding-left: 50px;
+    font-weight: 500px;
+}
+.body1_2 h3{
+    background-color: rgb(219, 191, 154);
+    padding: 10px;
+    padding-left: 50px;
+    font-weight: 500px;
+}
+.body1_2 a{
+    text-decoration: none;
+}
+.body1_2 a:hover{
+    color: #66CDAA;
+    text-decoration: underline;
+}
+
+.body1_2 {
+    margin-left: 110px;
+}
+
+.body2{
+    display: flex;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 40px;
+}
+.body2 .body2_1{
+    width: 33%;
+    margin-left: 5px;
+    border: 1px solid rgb(43, 43, 47);
+}
+.body2 .body2_1 h2{
+    background-color: rgb(27, 27, 238);
+    padding: 5px;
+}
+.body2 .body2_2{
+    
+    width: 33%;
+    margin-left: 5px;
+    border: 1px solid rgb(43, 43, 47);
+
+}
+.body2 .body2_2 h2{
+    background-color: rgb(105, 203, 105);
+    padding: 5px;
+}
+.body2 .body2_3{
+    
+    width: 33%;
+    margin-left: 5px;
+    border: 1px solid rgb(43, 43, 47);
+}
+.body2 .body2_3 h2{
+    background-color: rgb(185, 99, 185);
+    padding: 5px;
+}
+.body2_1 a{
+    
+    text-decoration: none;
+}
+.body2_1 a:hover{
+    color: green;
+    text-decoration: underline;
+
+}
+.body2_2 a{
+    text-decoration: none;
+
+}
+.body2_2 a:hover{
+    color: green ;
+    text-decoration: underline;
+}
+.body2_3 a{
+    text-decoration: none;
+}
+.body2_3 a:hover{
+    color: green;
+    text-decoration: underline;
+}
+ .b3_0{
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 50px;
+    box-shadow: 10px 10px 10px 10px  rgb(43, 43, 48);
+    padding: 3px;
+
+ }
+ 
+ .b3_2{
+    display: flex;
+
+ }
+ .t1{
+    width: 33%;
+ }
+ .t2{
+    width: 33%;
+ }
+ .t3{
+    width: 33%;
+ }
+ .t1 a{
+    text-decoration: none;
+ }
+ .t1 a:hover{
+    color: green ;
+    text-decoration: underline;
+ }
+ .t2 a{
+    text-decoration: none;
+ }
+ .t2 a:hover{
+    color: green ;
+    text-decoration: underline;
+ }
+ .t3 a{
+    text-decoration: none;
+ }
+ .t3 a:hover{
+    color: green ;
+    text-decoration: underline;
+ }
+ .b4_0{
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 50px;
+    display: flex;
+ }
+ .b4_1{
+    border: 2px solid rgb(163, 155, 155);
+    margin-right: 5px;
+    width: 50%;
+ }
+ .b4_2{
+    border: 2px solid rgb(163, 155, 155);
+    margin-left: 5px;
+    width: 50%;
+    
+ }
+ .b4_1 h2{
+    background-color: rgb(177, 127, 33);
+    padding: 10px;
+}
+.b4_2 h2{
+    background-color:rgb(94, 92, 225);
+    padding: 10px;
+}
+.b4_1 a{
+    text-decoration: none;
+}
+.b4_1 a:hover{
+    color: green;
+    text-decoration: underline;
+}
+.b4_2 a{
+    text-decoration: none;
+}
+.b4_2 a:hover{
+    color: green ;
+    text-decoration: underline;
+}
+.b5{
+    border: 2px solid rgb(163, 155, 155);
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+}
+.b5 a{
+    text-decoration: none;
+}
+.b5  a:hover{
+    color: green;
+    text-decoration: underline;
+}
+.b6{
+    margin-top: 30px;
+}
+.foot{
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 50px;
+}
+.foot1{
+    background-color: rgb(129, 122, 122);
+   
+}
+.foot1_0{
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 80px;
+    display: flex;
+    
+   
+}
+.foot1_0 a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+.foot1_0 a:hover{
+    text-decoration: underline;
+}
