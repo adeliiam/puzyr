@@ -27,7 +27,7 @@
     margin-top: 15px;
     padding-top: 10px;
     padding-bottom: 10px;
-    background: #66CDAA;
+    background: #2fb350;
     display: flex;
 }
 .header2 .menu {
@@ -263,7 +263,8 @@
     margin-top: 50px;
 }
 .foot1{
-    background-color: rgb(129, 122, 122);
+    background-color: rgb(60, 56, 56);
+    
    
 }
 .foot1_0{
@@ -271,6 +272,7 @@
     margin-right: 450px;
     margin-top: 80px;
     display: flex;
+    
     
    
 }
@@ -281,4 +283,7 @@
 }
 .foot1_0 a:hover{
     text-decoration: underline;
+}
+.foot1_0 li{
+    list-style-type: none;
 }
